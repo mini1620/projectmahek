@@ -10,4 +10,4 @@ df['Encoded_Gender']=gender_encoded
 
 df['Encoded_Position']=encoded_position
 
-print
+print(df) 

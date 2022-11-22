@@ -1,0 +1,15 @@
+sr no ,outlook,temp,humidity,playgolf,play
+0,Sunny,Hot,High,ball,No
+1,Sunny,Hot,High,stick,No
+2,Overcast,Hot,High,stick,yes
+3,Rain,Mild,High,Ball,yes
+4,Rain,cool,Normal,Ball,yes
+5,Rain,cool,Normal,stick,No
+6,Overcast,cool,Normal,stick,yes
+7,Sunny,Mild,High,ball,No
+8,Sunny,cool,Normal,stick,yes
+9,Rain,Mild,Normal,ball,yes
+10,Sunny,Mild,Normal,ball,yes
+11,Overcast,Mild,High,stick,yes
+12,Overcast,Hot,Normal,stick,yes
+13,Rain,Mild,High,stick,No
